@@ -1,0 +1,7 @@
+
+train.csv
+test.csv
+submission_rfc.csv
+submission_pca.csv
+submission_kmeans.csv
+submission.csv
